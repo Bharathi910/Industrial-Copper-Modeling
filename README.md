@@ -1,5 +1,9 @@
 # Industrial-Copper-Modeling
 
+**video**
+
+https://www.linkedin.com/posts/siva-bharathi-n-9b233b1b4_guvi-machinelearning-datascience-activity-7224772945154338816-UfOn?utm_source=share&utm_medium=member_desktop
+
 **Libraries**
 
 **Streamlit:** For creating the web interface.
